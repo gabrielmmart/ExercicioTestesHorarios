@@ -1,4 +1,4 @@
-https://github.com/<gabrielmmart/ExercicioTestesHorarios/actions/workflows/xercicioDosHorarios.yml/badge.svg
+https://github.com/<gabrielmmart/ExercicioTestesHorarios/actions/workflows/ExercicioDosHorarios.yml/badge.svg
 
 # ExercicioTestesHorarios
 Repositório que contém o exercício dos horários e o exercício de CI/CD resolvidos.
