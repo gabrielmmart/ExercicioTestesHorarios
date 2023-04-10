@@ -62,7 +62,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      NOTIF_EMAIL: 'gabriel.medeiros@ges.inatel.br'
+      NOTIF_EMAIL: gabriel.medeiros@ges.inatel.br
 
     needs: build
     steps:
