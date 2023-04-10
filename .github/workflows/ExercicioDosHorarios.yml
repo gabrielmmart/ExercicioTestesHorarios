@@ -61,6 +61,9 @@ jobs:
   shell-scripts:
     runs-on: ubuntu-latest
 
+    env:
+      NOTIF_EMAIL: 'gabriel.medeiros@ges.inatel.br'
+
     needs: build
     steps:
     - name: Executar script
